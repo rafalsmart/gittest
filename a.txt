@@ -10,3 +10,4 @@ stash - branch z tego
 tej lini zapomnialem dodac
 tej lini zapomnialem dodac 2
 tej lini zapomnialem dodac 3
+zrobione w master
