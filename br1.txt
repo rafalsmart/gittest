@@ -4,3 +4,4 @@ po zmergowaniu, br3
 po zmergowaniu2, br4
 br5 gittest2
 gittest2 - zmiana tylko w br1.txt. Pojdzie commit ale tam juz wczesnie poszla zmiana do pliku a.txt. Zobacze co sie zmieni.
+konflikt master linia - tzn jeszcze nie ma konfliktu
