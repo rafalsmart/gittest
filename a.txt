@@ -13,3 +13,4 @@ tej lini zapomnialem dodac 3
 zrobione w master
 zrobione w master 2
 asdf
+po konflikt - zaraz pojdzie commit i push ale powinien byc blad
