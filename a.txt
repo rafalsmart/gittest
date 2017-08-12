@@ -7,3 +7,4 @@ szybka zmiana (zrobilem stasha)
 w trakcie zmian bedzie do stash - moja zmiana stash po szybkim fixie z main
 a tu zmiana z poziomu main
 stash - branch z tego
+ta linia ma buga
