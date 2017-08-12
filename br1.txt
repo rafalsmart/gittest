@@ -15,3 +15,4 @@ br 5
 br 6
 br 7 - rebase
 br 8  przed 
+br 9 po rebase
