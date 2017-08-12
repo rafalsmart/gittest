@@ -13,3 +13,5 @@ tej lini zapomnialem dodac 3
 zrobione w master
 zrobione w master 2
 asdf
+
+aa przed konflikt - zaraz pojdzie commit i push
