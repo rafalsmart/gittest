@@ -2,3 +2,4 @@ master1
 master2
 master3
 master4
+plik a.txt - zmiana w gittest pojdzie do githuba do galezi br1 przed zmiana bliku br1 w gittest2
