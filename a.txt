@@ -3,4 +3,5 @@ master2
 master3
 master4
 zmiana w galezi master. Potem to zmerguje z galezia br1
-w trakcie zmian bedzie do stash
+szybka zmiana (zrobilem stasha)
+w trakcie zmian bedzie do stash - moja zmiana stash po szybkim fixie z main
