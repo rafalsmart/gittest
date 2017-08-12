@@ -6,3 +6,4 @@ zmiana w galezi master. Potem to zmerguje z galezia br1
 szybka zmiana (zrobilem stasha)
 w trakcie zmian bedzie do stash - moja zmiana stash po szybkim fixie z main
 a tu zmiana z poziomu main
+stash - branch z tego
